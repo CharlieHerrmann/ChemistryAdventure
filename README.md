@@ -1,5 +1,5 @@
 # ChemistryAdventure
-RPG chemistry video game
+RPG chemistry video game. Goal is to complete all of the virtual chemistry labs. 
 Run GraphicsMain to display Graphics Panel. 
 Instructions: 
 Move around with arrow keys. Press i key to see inventory. 

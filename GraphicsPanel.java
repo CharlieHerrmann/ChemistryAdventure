@@ -59,7 +59,7 @@ public class GraphicsPanel extends JPanel implements KeyListener,MouseListener,M
 	
 	// method: GraphicsPanel Constructor
 	// description: This 'method' runs when a new instance of this class in instantiated.  It sets default values  
-	// that are necessary to run this project.  You do not need to edit this method.
+	// that are necessary to run this project.
 	public GraphicsPanel(){
 		setPreferredSize(new Dimension(1000, 700));
         this.setFocusable(true);			// for keylistener

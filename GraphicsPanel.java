@@ -1,9 +1,3 @@
-
-// Written by: Charlie Herrmann
-// Date: April 19th 2015
-// Description: This project displays the game of connect 4. Players will take turns dropping peices into 
-// one of 7 columns and the first to get 4 in a row wins. 
-
 import java.awt.BasicStroke;
 import java.awt.Color;
 import java.awt.Dimension;
